@@ -1,4 +1,10 @@
-# EMI
+# DO NOT ASK EMI MAINTAINERS FOR SUPPORT ON EMI CANARY
+> [!CAUTION]
+> This project **is not** related to EMI. **DO NOT** bother Emi or the EMI maintainers
+> about EMI Canary, or you *will* be banned from EMI Canary spaces and your issues
+will be closed.
+
+# EMI Canary
 EMI is a featureful and accessible item and recipe viewer for Minecraft.
 
 ![EMI Interface](https://user-images.githubusercontent.com/14813658/224562247-1588064e-39ef-475a-9108-d7a357af6939.png)
